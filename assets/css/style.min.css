@@ -430,7 +430,7 @@ body.lock {
   height: 1250px;
   width: 100%;
   overflow: hidden;
-  background-image: url(images/header/headerimg.png);
+  background-image: url(./images/header/headerimg.png);
   background-repeat: no-repeat;
   object-fit: cover;
 }
